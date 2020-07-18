@@ -1,0 +1,12 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "node bin/dev-server.js"
+  }
+}
